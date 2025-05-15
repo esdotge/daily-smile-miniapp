@@ -1,0 +1,13 @@
+    {
+      "manifestVersion": "1.0.0",
+      "name": "Daily Smile for $MILE",
+      "description": "Share your daily smile and get a (simulated) $MILE token!",
+      "iconUrl": "https://daily-smile-miniapp.vercel.app/images/miniapp-icon.png", // ¡Usa tu URL de Vercel!
+      "homeUrl": "https://daily-smile-miniapp.vercel.app/index.html", // ¡Usa tu URL de Vercel!
+      "permissions": [
+        // "request_notifications" // Descomenta esto si quieres implementar notificaciones más adelante
+      ],
+      "authorFid": 0, // Reemplaza con tu FID de Farcaster si quieres verificar la autoría
+      "appFid": 0 // Opcional: Si tu app tiene su propio FID
+    }
+    
