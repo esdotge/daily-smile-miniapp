@@ -1,0 +1,13 @@
+# Ignorar la carpeta de dependencias de Node (si la añades más adelante)
+node_modules/
+
+# Ignorar archivos de sistema de macOS
+.DS_Store
+
+# Ignorar archivos de logs (si los generas)
+*.log
+
+# Ignorar variables de entorno locales (si las usas)
+.env
+.env.*
+!/.env.example 
